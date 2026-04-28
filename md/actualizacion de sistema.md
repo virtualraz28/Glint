@@ -1,32 +1,58 @@
-# Actualizacion de sistema de pedimentos ( CSAAIWIN)
+# ACTUALIZACIÓN DEL SISTEMA DE INDICADORES (CSAAIWIN)
 
-Esta actualizacion se tiene que realizar diario, dado a que puede cambiar el valor de la monea ( MX, USD )
+Esta actualización debe realizarse **diariamente**, ya que el valor de la moneda (MXN / USD) puede cambiar.
 
-Paso 1:
+---
 
-1. Conectarse al escritorio remoto la IP ( 44.221.2.34 )
+## Paso 1. Conectarse al Escritorio Remoto
+
+Conectarse al servidor mediante Escritorio Remoto usando la IP:
+
+**44.221.2.34**
 
 ![Escritorio remoto](/img/remoto.png)
 
-2. Ingresar a ActNetWin ( esta en el escritorio )
+---
+
+## Paso 2. Abrir ActNetWin
+
+Una vez dentro del servidor, abrir **ActNetWin** (se encuentra en el escritorio).
 
 ![ActNetWin](/img/actnetwin.png)
 
-3. Ingresar ( pass = 1 )
+---
 
-![Ingreso](/img/ingresoactnet.png)
+## Paso 3. Ingresar al sistema
 
-4. Daremos click en la opcion de actualizar sistemas y daremos siguiente 
+Cuando se solicite la contraseña, ingresar:
 
-![sistema](/img/sistemas4.png)
+**pass = 1**
 
-5. Nos mostrara los sistmas y las versiones que se tienen actualmente y daremos click en siguiente 
+![Ingreso ActNetWin](/img/ingresoactnet.png)
 
-![sistema](/img/sistemas5.png)
+---
 
-6. Posteriormente nos mostrara mas a detalle con la clave de aduana 
+## Paso 4. Iniciar actualización de sistemas
 
-![sistema](/img/sistemas6.png)
+1. Hacer clic en la opción **Actualizar sistemas**.
+2. Presionar **Siguiente**.
 
+![Actualizar sistemas](/img/sistemas4.png)
 
+---
+
+## Paso 5. Verificar sistemas y versiones
+
+El sistema mostrará la lista de sistemas y sus versiones actuales.
+Presionar **Siguiente** para continuar.
+
+![Versiones de sistemas](/img/sistemas5.png)
+
+---
+
+## Paso 6. Confirmar actualización por aduana
+
+Se mostrará el detalle de actualización con la **clave de aduana** correspondiente.
+
+![Detalle por aduana](/img/sistemas6.png)
 
